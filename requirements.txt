@@ -1,0 +1,9 @@
+dicom2nifti==2.4.11
+nibabel==5.2.1
+numpy==2.0.0
+packaging==24.1
+pathlib==1.0.1
+pydicom==2.4.4
+python-gdcm==3.0.24.1
+scipy==1.14.0
+tqdm==4.66.4
